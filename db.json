@@ -1,0 +1,37 @@
+{
+	"message": "Success",
+	"result": [
+		{
+			"id": 1,
+			"name": "Muhammad Ibnu",
+			"details": {
+				"platform": "youtube",
+				"authUrl": "https://example.com"
+			},
+			"status": true,
+			"source": {
+				"id": 2,
+				"name": "OAuth"
+			},
+			"tags": [
+				"Yt"
+			]
+		},
+		{
+			"id": 2,
+			"name": "Muhammad Ibnu",
+			"details": {
+				"platform": "youtube",
+				"authUrl": "https://example.com"
+			},
+			"status": true,
+			"source": {
+				"id": 2,
+				"name": "OAuth"
+			},
+			"tags": [
+				"Yt"
+			]
+		}
+	]
+}
